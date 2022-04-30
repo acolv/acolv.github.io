@@ -92,6 +92,7 @@ form {
 
 .card-big{ 
     margin-left: 15%;
+
 }
 .card-title{
     text-decoration-line: underline;
@@ -118,4 +119,8 @@ padding: 1%;
 .DVA-text {
    margin-left: 32%;
    color: white;
+}
+.second-text{
+    background-color:#7CBBDF;
+
 }
