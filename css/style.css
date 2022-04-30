@@ -99,28 +99,20 @@ form {
     text-decoration-color:#E56399;
 }
 .card-text{
-    font-size: medium;
-    color: #7CBBDF;
     font-family:font-family:'Inter', sans-serif;
     padding: 8%;
-    text-size:5em;
+
 }
 
 .card-text-phil{
-    color:#7CBBDF;
     margin-top: 5%;
 }
 
 .DVA{
-background-color: #7CBBDF;
 padding: 1%;
 }
 
 .DVA-text {
    margin-left: 32%;
    color: white;
-}
-.second-text{
-    background-color:#7CBBDF;
-
 }
