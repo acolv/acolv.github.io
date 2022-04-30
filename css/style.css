@@ -21,8 +21,16 @@ h4 {
     font-family: 'Inter', sans-serif;
     text-align: center;
 }
+h5 {
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    color: #7CBBDF;
+    font-size: 2em;
+}
 p {
     font-family: 'Inter', sans-serif;
+    text-size: 5em;
+
 }
 .nav-bar{
     background-color: #CAFF84;
@@ -71,3 +79,43 @@ form {
     border-radius: 8px;
   }
 
+.img-one{
+    justify-content: center;
+    max-width: 80%;
+  margin-left: 10%;
+  margin-right: 5%;
+}
+
+.phil-button{
+    margin-left: 40%;
+}
+
+.card-big{ 
+    margin-left: 15%;
+}
+.card-title{
+    text-decoration-line: underline;
+    text-decoration-color:#E56399;
+}
+.card-text{
+    font-size: medium;
+    color: #7CBBDF;
+    font-family:font-family:'Inter', sans-serif;
+    padding: 8%;
+    text-size:5em;
+}
+
+.card-text-phil{
+    color:#7CBBDF;
+    margin-top: 5%;
+}
+
+.DVA{
+background-color: #7CBBDF;
+padding: 1%;
+}
+
+.DVA-text {
+   margin-left: 32%;
+   color: white;
+}
